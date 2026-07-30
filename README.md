@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/andresc1029/SopranoHB/refs/heads/main/ScriptTsb.lua"))()
+ https://link-center.net/7920597/ir0QrLB5Ewm2
